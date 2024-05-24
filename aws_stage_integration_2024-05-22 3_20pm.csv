@@ -1,0 +1,9 @@
+property,property_type,property_value,property_default
+ENABLED,Boolean,true,false
+STORAGE_PROVIDER,String,S3,
+STORAGE_ALLOWED_LOCATIONS,List,s3://dazbucket-01/,[]
+STORAGE_BLOCKED_LOCATIONS,List,,[]
+STORAGE_AWS_IAM_USER_ARN,String,arn:aws:iam::637423303310:user/p5xm0000-s,
+STORAGE_AWS_ROLE_ARN,String,arn:aws:iam::654654219557:role/demo_22052024,
+STORAGE_AWS_EXTERNAL_ID,String,PY38229_SFCRole=2_dg5USn72/ehtHell66dRUGoUp3M=,
+COMMENT,String,,
